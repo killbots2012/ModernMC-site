@@ -120,12 +120,12 @@
  /* Dropdown */
  
  .dropdown-menu {
-   position: absolute;
+   position: relative;
    top: 100%;
    left: 0;
    z-index: 1000;
    display: none;
-   float: left;
+   float: right;
    min-width: 230px;
    border: 0;
    padding: 5px 0;
