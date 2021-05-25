@@ -1,5 +1,5 @@
-fix social icons to proper scale
-create guides for
+
+<h1>create guides for</h1>
 <b>Towny</b>
 <ul>Towny it's self,</ul> 
 <ul>mcmmo,</ul> 
@@ -9,3 +9,5 @@ create guides for
 
 <b>Creative</b>
 <ul>Guide on plot squared</ul>
+
+<h3>fix social icons to proper scale</h3>
